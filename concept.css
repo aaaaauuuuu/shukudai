@@ -1,0 +1,31 @@
+.header {
+    background-color: palevioletred;
+    height: 70px;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Chalkboard',sans-serif;
+}
+.card {
+    background-color: white;
+    height: 350px;
+}
+.content {
+    background-color: white;
+    height: 350px;
+}
+.content {
+    font-family: 'HanziPen TC',sans-serif;
+    font-size: 29px;
+    text-align: center;
+    padding-top: 150px;
+}
+.contact {
+    background-color: white;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Chalkboard',sans-serif;
+    padding-top: 5px;
+}

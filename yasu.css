@@ -1,0 +1,25 @@
+.yasu {
+    height: 70px;
+    background-color: aquamarine;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Chalkboard',sans-serif;
+}
+.fa-user {
+    font-size: 100px;
+    text-align: center;
+    padding-top: 60px;
+}
+.btn {
+    text-align: center;
+}
+.fab {
+    font-size: 30px;
+}
+.fa-facebook-square {
+    color: rgb(0, 110, 255);
+}
+.fa-instagram {
+    color: rgb(251, 126, 255);
+}

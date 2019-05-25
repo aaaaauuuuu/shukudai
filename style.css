@@ -1,0 +1,23 @@
+.header {
+    background-color: palevioletred;
+    height: 70px;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Chalkboard',sans-serif;
+}
+.carousel .carousel-item {
+    height: 600px;
+    width: 100%;
+}
+.carousel img {
+    height: 600px;
+    width: 400%;
+}
+.tunago p {
+    position: absolute;
+    color: whitesmoke;
+    font-size: 100px;
+    margin: 50px 200px 100px 350px;
+    font-family: 'HanziPen SC',sans-serif;
+}
