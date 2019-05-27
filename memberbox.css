@@ -1,0 +1,43 @@
+body {
+    background-color:pink;
+}
+.header {
+    height: 60px;
+    font-size: 30px;
+    padding: 5px 0px 0px 30px;
+    /* background-color: rgb(255, 208, 0); */
+    font-family: 'Chalkboard',sans-serif;
+    color: olive;
+    text-align: center;
+}
+.bgColor {
+    height: 92.6vh;
+}
+.btn {
+    background-color: whitesmoke;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 300px;
+    color: pink;
+}
+.dropdown-menu {
+    font-size: 20px;
+    width: 300px;
+}
+.chat {
+    background-color: whitesmoke;
+    height: 400px;
+    width: 300px;
+    border: solid 1px;
+    border-radius: 10px;
+    padding-left: 15px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: none;
+}
+.block {
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+}

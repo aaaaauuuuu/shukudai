@@ -1,0 +1,62 @@
+.header {
+    height: 60px;
+    width: 100%;
+    font-size: 30px;
+    padding: 5px 0px 0px 30px;
+    background-color: rgb(255, 208, 0);
+    font-family: 'Chalkboard',sans-serif;
+}
+.fas {
+    color: rgb(0, 89, 255);
+    animation: car 4s ease;
+}
+@keyframes car {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+        margin-left: 1000px;
+    }
+    
+}
+
+.bg {
+    height: 92.7vh;
+    width: 100%;
+    background-image: url(login.jpg);
+    background-repeat:  no-repeat;
+    background-size: cover;
+}
+.form-group {
+    margin-top: 500px;
+    font-size: 30px;
+    /* display: none; */
+    color:whitesmoke;
+    font-family: 'Chalkboard',sans-serif;
+}
+.text {
+    margin-left: 170px;
+}
+.box {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    font-family: 'Chalkboard',sans-serif;
+    /* display: none; */
+}
+/* .btnjs {
+    margin-top: 500px;
+    font-size: 30px;
+}
+.btnjv {
+    margin-right: -100px;
+} */
+.btn {
+    animation: spinner 2s linear infinite;
+}
+@keyframes spinner {
+    to {
+        transform: rotate(360deg);
+    }
+}
